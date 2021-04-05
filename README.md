@@ -2,7 +2,7 @@
 
 This repository contains the lexicons, and data used for the time series analysis of the mental health (in terms of anxiety, depression and stress), emotions and sentiments during the COVID-19 pandemic in Argentina.
 
-The original data is available at [Mendeley](https://data.mendeley.com/datasets/nv8k69y59d/2  ) and can be donwloaded using our tool [Faking it!](https://github.com/knife982000/FakingIt).
+The original data is available at [Mendeley](https://data.mendeley.com/datasets/nv8k69y59d/2) and can be donwloaded using our tool [Faking it!](https://github.com/knife982000/FakingIt).
 
 For more information check:
 
@@ -12,6 +12,16 @@ For more information check:
 
 ### Citation
 
+If using our data, please cite:
+```
+@article{tommasel2020spanishtweetscovid,
+  title={SpanishTweetsCOVID-19: A Social Media Enriched Covid-19 Twitter Spanish Dataset},
+  author={Tommasel, Antonela and Rodriguez, Juan and Godoy, Daniela},
+  journal={Mendeley Data},
+  volume={1},
+  year={2020}
+}
+```
 
 ### Contact info
 
